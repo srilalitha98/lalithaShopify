@@ -1,0 +1,15 @@
+.plan-card-details {
+  display: flex;
+  flex-direction: column;
+  padding: 14px;
+}
+.try-for-free-btn {
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 12px;
+  width: 300px;
+  height: 40px;
+  align-self: center;
+  margin-top: 10px;
+}
